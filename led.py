@@ -75,4 +75,4 @@ except KeyboardInterrupt:
     print("\nstop")
 finally:
     GPIO.cleanup()
- 
+ #do something by xunil-cloud
