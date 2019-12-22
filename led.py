@@ -1,3 +1,4 @@
+# 123
 # 匯入函式庫
 import time
 import RPi.GPIO as GPIO
